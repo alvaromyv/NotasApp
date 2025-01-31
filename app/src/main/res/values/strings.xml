@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="empty_title">Title</string>
+    <string name="empty_body">Write something...</string>
+    <string name="without_body">Without text</string>
+    <string name="characters">characters</string>
+    <string name="character">character</string>
+    <string name="undated">undated</string>
+    <string name="press_button_to_exit">Please press the button to exit</string>
+    <string name="delete_note_title">Delete this note</string>
+    <string name="delete_note_message">Are you sure you want to delete this note?</string>
+    <string name="note_yes">Yes</string>
+    <string name="note_no" translatable="false">No</string>
+    <string name="default_date">January 1, 1970 00:00</string>
+    <string name="note_doesnt_save">The note has not been saved.</string>
+    <string name="note_saved">The note has been successfully saved!!</string>
+    <string name="note_modified">The note has been succesfully modifed!!</string>
+    <string name="note_deleted">The note has been succesfully deleted!!</string>
+    <string name="restored_note_title">Restore note</string>
+    <string name="restored_note_message">"Are you sure you want to restored the selected note? "</string>
+    <string name="note_restored">The note has been successfully restored!!</string>
+    <string name="deleted_date_message">Deleted</string>
+    <string name="deleted_date_message2">,</string>
+    <string name="press_twice">Press again to exit.</string>
+    <string name="my_notes">My notes</string>
+    <string name="note_bin">Note bin</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

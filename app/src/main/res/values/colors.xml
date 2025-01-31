@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="principal_color_app">#FFBB00</color>
+    <color name="nota_amarilla">#fcf3cf</color>
+    <color name="nota_verde">#d4efdf</color>
+    <color name="nota_azul">#d6eaf8</color>
+    <color name="nota_morada">#ebdef0</color>
+    <color name="nota_roja">#fadbd8</color>
+</resources>
+
+<!--
+
+-->

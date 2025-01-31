@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="empty_title">Sin título</string>
+    <string name="empty_body">Escribe algo...</string>
+    <string name="without_body">Sin texto</string>
+    <string name="characters">caracteres</string>
+    <string name="character">caracter</string>
+    <string name="undated">Sin fecha</string>
+    <string name="press_button_to_exit">Pulsa el botón para salir.</string>
+    <string name="delete_note_title">Borrar está nota</string>
+    <string name="delete_note_message">¿Estás seguro de que quieres borrar esta nota?</string>
+    <string name="note_yes">Sí</string>
+    <string name="default_date">1 Enero 1970 00:00</string>
+    <string name="note_doesnt_save">La nota no se ha guardado.</string>
+    <string name="note_saved">La nota ha sido guardada correctamente!!</string>
+    <string name="note_modified">La nota ha sido modificada correctamente!!</string>
+    <string name="note_deleted">La nota ha sido eliminada correctamente!!</string>
+    <string name="restored_note_title">Restaurar nota</string>
+    <string name="restored_note_message">¿Estás seguro de que quieres restaurar esta nota?</string>
+    <string name="note_restored">La nota ha sido restaurada correctamente!!</string>
+    <string name="deleted_date_message">Eliminada el</string>
+    <string name="deleted_date_message2">a las</string>
+    <string name="press_twice">Presiona de nuevo para salir.</string>
+    <string name="my_notes">Mis notas</string>
+    <string name="note_bin">Papelera</string>
+</resources>

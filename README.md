@@ -1,7 +1,9 @@
-# 📝 Editor Notas App (Android)
+# 📝 Notas App (Android)
 
 ## 📌 Introducción
 Esta aplicación de Android, desarrollada en **Kotlin con Android Studio**, permite gestionar notas de texto con funcionalidades adicionales como papelera y acceso al calendario del dispositivo.
+
+![image](https://github.com/user-attachments/assets/3ac4e1ca-7dcf-493c-b5cc-691bdcc7313b)
 
 ## 🚀 Funcionalidades Principales
 ✅ **Crear y editar** notas de texto.  
@@ -51,6 +53,3 @@ Esta aplicación de Android, desarrollada en **Kotlin con Android Studio**, perm
 📌 [Documentación oficial de Kotlin](https://kotlinlang.org/docs/home.html)  
 📌 [Guía de Android Studio](https://developer.android.com/studio)  
 📌 [Uso de Intents en Android](https://developer.android.com/guide/components/intents-filters)  
-
----
-✍️ *Desarrollado por Álvaro Moyano Vila – 2º DAM (Programación Multimedia)*
